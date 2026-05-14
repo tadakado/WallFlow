@@ -1,0 +1,15 @@
+.DS_Store
+.DerivedData/
+.cache/
+.hf-cache/
+.matplotlib-cache/
+.model-cache/
+.venv-coreml/
+WallFlow/AnimeFaceDetector.mlpackage/
+DerivedData/
+build/
+dist/
+*.xcuserdata/
+xcuserdata/
+*.moved-aside
+*.xcuserstate
